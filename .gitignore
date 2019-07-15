@@ -183,3 +183,4 @@ FakesAssemblies/
 
 # Custom
 *.GhostDoc.xml
+/.vs/SQLite.CodeFirst/v16/Server/sqlite3
